@@ -1,0 +1,16 @@
+NOTES: GENERAL
+
+starter and final code on GitHub
+https://github.com/jonasschmedtmann/complete-javascript-course
+
+Discord community
+https://discord.gg/uhMkpf4
+
+online tools and resources
+https://codingheroes.io/resources/
+
+VISUAL STUDIO CODE
+
+themes
+- Monokai Pro (can be used for free)
+- Seti
